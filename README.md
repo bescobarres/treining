@@ -1,2 +1,2 @@
-# treining
+# Treining
 System for Gym's
